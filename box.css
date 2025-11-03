@@ -1,0 +1,29 @@
+body {
+    background-color: #f4f4f4;
+    margin: 50px;
+    text-align: center;
+}
+
+.box {
+    width: 150px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+    border: 3px solid #333;
+}
+
+.satu {
+    background-color: #ffcc00; /* kuning */
+}
+
+.dua {
+    background-color: #ff6600; /* oranye */
+}
+
+.tiga {
+    background-color: #66cc66; /* hijau */
+}
+
+.empat {
+    background-color: #33cccc; /* biru muda */
+}
